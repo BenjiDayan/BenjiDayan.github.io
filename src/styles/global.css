@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(243, 242, 183);
+}
+
+body {
+    font: 16px Garamond, serif;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px
+}
+
+
+h1 {color:chocolate; font-size:32px; font-family: 'Helvetica', sans-serif;}
+h2, h3, h4 {font-family: 'Ubuntu', sans-serif}
+h2 {color: rgb(255, 130, 80); font-size: 24px}
+h3 {color:rgb(212, 65, 102); font-size: 18px}
+
+
+/* Was doing some font testing... ended up on Trocchi (serif) for h1, Ubuntu (sans-serif) for h2-h4, and Garamond (serif) for p*/
+p1 {font-size:24px; font-family: 'Ubuntu', sans-serif;}
+p2 {font-size:24px; font-family: 'Mukta', serif;}
+p3 {font-size:24px; font-family:  'Helvetica', serif; font-weight: normal}
